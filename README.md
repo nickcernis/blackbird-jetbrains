@@ -8,10 +8,10 @@
 
 ## The high-contrast dark theme for spellcasters
 
-![Screenshot showing React and CSS syntax highlighting.](docs/screenshots/react-css.png) 
-
-
 ![Screenshot showing Rust and JSON syntax highlighting with IDE Screenshot showing Rust and JSON syntax highlighting with IDE chrome turned off.](docs/screenshots/rust-json-no-chrome.png)
+
+
+![Screenshot showing React and CSS syntax highlighting.](docs/screenshots/react-css.png) 
 
 ### Why try Blackbird?
 
