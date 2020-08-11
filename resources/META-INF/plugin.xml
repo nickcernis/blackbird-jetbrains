@@ -1,0 +1,42 @@
+<idea-plugin>
+  <id>com.deadsilly.blackbird.theme</id>
+  <name>Blackbird Theme</name>
+  <version>0.1.0</version>
+  <vendor email="nick@cern.is" url="https://deadsilly.com">Nick Cernis</vendor>
+
+  <description>
+    <![CDATA[
+      The high-contrast dark theme for spellcasters.
+      <br><br>
+      - <strong>High readability</strong> with a contrast ratio of 7:1 or better for editor text.<br>
+      - <strong>A simple palette</strong> to reduce visual overload.<br>
+      - <strong>Good default font settings</strong>.<br>
+      - <strong>Reduced distractions</strong> with stripe marks for errors only.<br>
+      - <strong>Text editor looks</strong> with a unified background.<br>
+      - <strong>Lightweight</strong> implementation as a pure theme with no plugin requirements.<br>
+      <br>
+      Learn more in the <a href="https://github.com/nickcernis/blackbird-jetbrains">Blackbird theme GitHub repo</a>.
+    ]]>
+  </description>
+
+  <change-notes>
+    <![CDATA[
+      <ul>
+        <li><strong>0.1.0</strong> Initial release with editor and UI themes.</li>
+      </ul>
+    ]]>
+  </change-notes>
+
+  <!-- Compatible with the following versions of IntelliJ Platform:
+      version 2019.1 and newer. -->
+  <idea-version since-build="191"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="d3e2f10d-afc3-4c07-98c4-28300ce73f16" path="/blackbird.theme.json"/>
+  </extensions>
+
+</idea-plugin>
