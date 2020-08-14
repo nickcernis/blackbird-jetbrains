@@ -8,6 +8,9 @@
 
 ## The high-contrast dark theme for spellcasters
 
+[![Version](https://img.shields.io/jetbrains/plugin/v/14858-blackbird-theme.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/14858-blackbird-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/14858-blackbird-theme.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/14858-blackbird-theme)
+
 ![Screenshot showing Rust and JSON syntax highlighting with IDE Screenshot showing Rust and JSON syntax highlighting with IDE chrome turned off.](docs/screenshots/rust-json-no-chrome.png)
 
 
