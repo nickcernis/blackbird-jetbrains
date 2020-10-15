@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.deadsilly.blackbird.theme</id>
   <name>Blackbird Theme</name>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <vendor email="nick@cern.is" url="https://github.com/nickcernis/">Nick Cernis</vendor>
 
   <description>
@@ -22,6 +22,8 @@
   <change-notes>
     <![CDATA[
       <ul>
+        <li><strong>0.2.0</strong> Go color scheme. Improved settings field contrast.</li>
+        <li><strong>0.1.1</strong> Updated vendor URL.</li>
         <li><strong>0.1.0</strong> Initial release with editor and UI themes.</li>
       </ul>
     ]]>
