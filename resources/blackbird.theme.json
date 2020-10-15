@@ -79,7 +79,10 @@
     "Button.startBorderColor": "strokeOfMidnight",
     "Button.endBorderColor": "strokeOfMidnight",
     "WelcomeScreen.Projects.selectionBackground": "strokeOfMidnight",
-    "WelcomeScreen.Projects.selectionInactiveBackground": "strokeOfMidnight"
+    "TextField.background": "strokeOfMidnight",
+    "ComboBox.background": "strokeOfMidnight",
+    "ComboBox.ArrowButton.nonEditableBackground": "strokeOfMidnight",
+    "ComboBox.nonEditableBackground": "strokeOfMidnight"
   },
   "icons": {
     "ColorPalette": {
