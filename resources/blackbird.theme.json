@@ -85,8 +85,7 @@
     "ComboBox.nonEditableBackground": "strokeOfMidnight",
     "Panel.background": "midnight",
     "Viewport.background": "midnight",
-    "List.background": "midnight",
-    "List.selectionBackground": "midnight"
+    "List.background": "midnight"
   },
   "icons": {
     "ColorPalette": {
