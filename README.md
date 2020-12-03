@@ -25,10 +25,18 @@
 - **Text editor looks** with a unified background color and minimal borders.
 - **Lightweight** implementation as a pure theme with no plugin requirements.
 
+### Advice for Mac users
+
+To make the Mac title bar match the color of the theme: 
+
+1. Help → Edit Custom Properties…
+2. Create the `idea.properties` file if prompted. 
+3. Add this line to the file, save, and restart: `ide.mac.transparentTitleBarAppearance=true`
+
 ### Advice for minimalists
 
 - Turn off the toolbar, navigation bar, and tool window bars (View → Appearance). 
-- Turn off tabs (Editor → General → Tabs → Tab Placement → none). Then navigate with Search Everywhere (Shift Shift), Recent Files (Ctrl/Cmd + E), or set up [IdeaVim bindings to cycle through tabs/buffers](https://gist.github.com/nickcernis/bcb5cb7f55c07ed3de8287d163ed7c28#file-ideavimrc-L55-L58).
+- Try turning off tabs (Editor → General → Tabs → Tab Placement → none). Then navigate with Search Everywhere (Shift Shift), Open Files (Ctrl/Cmd + Shift + O), (Recent Files (Ctrl/Cmd + E), or set up [IdeaVim bindings to cycle through tabs/buffers](https://gist.github.com/nickcernis/bcb5cb7f55c07ed3de8287d163ed7c28#file-ideavimrc-L55-L58).
 - Keep the Project tool window closed unless you need a tree view. 
 
 ### Change the default font
