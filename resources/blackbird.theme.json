@@ -85,7 +85,9 @@
     "ComboBox.nonEditableBackground": "strokeOfMidnight",
     "Panel.background": "midnight",
     "Viewport.background": "midnight",
-    "List.background": "midnight"
+    "List.background": "midnight",
+    "VersionControl.Log.Commit.currentBranchBackground": "midnight",
+    "VersionControl.Log.Commit.hoveredBackground": "pinchOfMidnight"
   },
   "icons": {
     "ColorPalette": {
