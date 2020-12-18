@@ -87,7 +87,8 @@
     "Viewport.background": "midnight",
     "List.background": "midnight",
     "VersionControl.Log.Commit.currentBranchBackground": "midnight",
-    "VersionControl.Log.Commit.hoveredBackground": "pinchOfMidnight"
+    "VersionControl.Log.Commit.hoveredBackground": "pinchOfMidnight",
+    "Plugins.lightSelectionBackground": "pinchOfMidnight"
   },
   "icons": {
     "ColorPalette": {
