@@ -43,6 +43,15 @@ To make the Mac title bar match the color of the theme:
 1. Uncheck “Use color scheme font…” at Editor → Color Scheme → Color Scheme Font. 
 2. Set your font at Editor → Font.
 
+### AceJump colors
+If you use [AceJump](https://plugins.jetbrains.com/plugin/7086-acejump), set colors manually at Preferences → Tools → AceJump:
+
+- Jump mode color: ff7883
+- Tag background color: 97ecc7
+- Tag foreground color: 011529
+- Target mode color: ff7883
+- Text highlight color: 1d5278
+
 ### Credits
 
 - Blackbird name and color scheme inspired by the [Blackbird comic](https://imagecomics.com/comics/releases/blackbird-2) artwork by Jen Bartel.
