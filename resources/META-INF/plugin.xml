@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.deadsilly.blackbird.theme</id>
   <name>Blackbird Theme</name>
-  <version>0.3.0</version>
+  <version>0.3.1</version>
   <vendor email="nick@cern.is" url="https://github.com/nickcernis/">Nick Cernis</vendor>
 
   <description>
@@ -22,6 +22,7 @@
   <change-notes>
     <![CDATA[
       <ul>
+        <li><strong>0.3.1</strong> Improve inline hint colors.</li>
         <li><strong>0.3.0</strong> Elixir color scheme. Improve recent projects selection background color. Improve menu separator color.</li>
         <li><strong>0.2.2</strong> Improve git tool window background color and hover color.</li>
         <li><strong>0.2.1</strong> Reinstate background highlight for selected list item.</li>
