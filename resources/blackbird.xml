@@ -322,33 +322,18 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="ELIXIR_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="ELIXIR_BIT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="ELIXIR_CALLBACK" baseAttributes="ELIXIR_SPECIFICATION" />
-    <option name="ELIXIR_CHAR_LIST" baseAttributes="DEFAULT_STRING" />
-    <option name="ELIXIR_CHAR_TOKEN" baseAttributes="DEFAULT_ENTITY" />
-    <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELIXIR_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="ELIXIR_MACRO_CALL" baseAttributes="ELIXIR_FUNCTION_CALL">
+    <option name="ELIXIR_MACRO_CALL">
       <value>
         <option name="FOREGROUND" value="ff709d" />
         <option name="BACKGROUND" value="51527" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="ELIXIR_MAP" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELIXIR_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELIXIR_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="ELIXIR_SPECIFICATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="ELIXIR_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="ELIXIR_TYPE" baseAttributes="DEFAULT_METADATA" />
-    <option name="ELIXIR_TYPE_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="ELIXIR_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff709d" />
@@ -513,9 +498,15 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="bcc1de" />
+        <option name="BACKGROUND" value="83a6a" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="FOREGROUND" value="bcc1de" />
         <option name="BACKGROUND" value="83a6a" />
       </value>
     </option>
