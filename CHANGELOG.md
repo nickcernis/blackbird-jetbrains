@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.3.2
+- Unify progress bar colors.
+
 ## 0.3.1
 - Improve inline hint colors.
 
