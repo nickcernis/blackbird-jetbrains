@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Discontinued</strong> — [browse other JetBrains themes](https://plugins.jetbrains.com/search?tags=Theme).
+  <strong>Discontinued</strong> — <a href="https://plugins.jetbrains.com/search?tags=Theme">browse other JetBrains themes</a>.
 </p>
 
 ---
