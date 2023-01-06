@@ -1,4 +1,10 @@
 <p align="center">
+  <strong>Discontinued</strong> — [browse other JetBrains themes](https://plugins.jetbrains.com/search?tags=Theme).
+</p>
+
+---
+
+<p align="center">
   <img src="docs/blackbird-logo.png" alt="Blackbird theme">
 </p>
 
